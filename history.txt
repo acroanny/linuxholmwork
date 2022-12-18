@@ -1,0 +1,72 @@
+   0 mkdir
+   1 ls
+   2 pwd
+   3 rtee /root
+   4 tree /root
+   5 pwd tree /home
+   6 ls -a
+   7 ls -ai
+   8 ls -a1
+   9 cd ..
+  10 ls
+  11 mkdir /home/animals
+  12 cd /home
+  13 ls
+  14 cd /animals
+  15 cd animals
+  16 mkdir cat dog fish
+  17 ls
+  18 toush cat/garfild.txt dog/pluto.txt fish/nemo.txt
+  19 touch cat/garfild.txt dog/pluto.txt fish/nemo.txt
+  20 ls
+  21 ls cat
+  22 cd ..
+  23 cd /
+  24 cd tmp
+  25 touch adan.txt
+  26 ls
+  27 cd /
+  28 mkdir home/humans
+  29 ls
+  30 ls home
+  31 cp tmp/adam.txt home/humans/adam.txt
+  32 cp /tmp/adam.txt /home/humans/adan.txt
+  33 cd /
+  34 cd ..
+  35 cp /tmp/adam.txt /home/humans/adam.txt
+  36 cd mp
+  37 cd /mp
+  38 cd /tmp/adan.txt /home/humans/adam.txt 
+  39 mv adan.txt adam.txt
+  40 cd /tmp/adan.txt /home/humans/adan.txt
+  41 cp /tmp/adan.txt /home/humans/adam.txt
+  42 cd mpt
+  43 cd mpt/
+  44 cd /tmp
+  45 mkadir evA.txt
+  46 touch evA.txt
+  47 ls
+  48 cp /evA.txt /opt/eva.txt
+  49 cd /
+  50 cp /tmp/evA.txt /opt/eva.txt
+  51 ls /opt/
+  52 cp /opt/eva.txt /home/humans/eva.txt
+  53 ls /humans
+  54 ls /humans/
+  55 ls humans
+  56 ls humans/
+  57 cd/
+  58 cd /
+  59 cd /home/
+  60 ls
+  61 ls humans
+  62 cd /
+  63 history
+  64 history > history.txt
+  65 export file history.txt
+  66 export file historylinyx.txt
+  67 history_file history.txt
+  68 history > history.txt
+  69 history_file history.txt
+  70 history
+  71 history > history.txt
